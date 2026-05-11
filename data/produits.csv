@@ -1,0 +1,51 @@
+id_produit,nom,sous_categorie,categorie,marque,fournisseur
+P001,Riz Vary Gasy 5kg,Céréales,Alimentation,Tiko,Tiko SA
+P002,Riz Vary Gasy 25kg,Céréales,Alimentation,Tiko,Tiko SA
+P003,Farine de blé 1kg,Céréales,Alimentation,Kobama,Kobama SARL
+P004,Sucre blanc 1kg,Épicerie,Alimentation,Sirama,Sirama SA
+P005,Huile végétale 1L,Épicerie,Alimentation,Tiko,Tiko SA
+P006,Huile végétale 5L,Épicerie,Alimentation,Tiko,Tiko SA
+P007,Lait concentré sucré 397g,Produits laitiers,Alimentation,Nestlé,Nestlé Madagascar
+P008,Lait pasteurisé 1L,Produits laitiers,Alimentation,Socolait,Socolait SA
+P009,Yaourt nature 500g,Produits laitiers,Alimentation,Socolait,Socolait SA
+P010,Fromage fondu 8p,Produits laitiers,Alimentation,Kiri,Bel Madagascar
+P011,Pâtes spaghetti 500g,Céréales,Alimentation,Panzani,Panzani Import
+P012,Thon en boîte 185g,Conserves,Alimentation,Cémoi,Cémoi Ocean
+P013,Tomates pelées 400g,Conserves,Alimentation,D'aucy,Import Direct
+P014,Haricots rouges 400g,Conserves,Alimentation,Géant Vert,Import Direct
+P015,Café Sakalava moulu 250g,Boissons,Alimentation,Sakalava,Sakalava SARL
+P016,Café soluble 100g,Boissons,Alimentation,Nescafé,Nestlé Madagascar
+P017,Biscuits petit beurre 200g,Snacks,Alimentation,Lu,LU Madagascar
+P018,Chocolat noir 100g,Snacks,Alimentation,Chocolaterie Robert,Robert SA
+P019,Savon de ménage 400g,Hygiène,Entretien,Omo,Unilever Madagascar
+P020,Détergent lessive 1kg,Entretien,Entretien,Omo,Unilever Madagascar
+P021,Liquide vaisselle 500ml,Entretien,Entretien,Paic,Unilever Madagascar
+P022,Essuie-tout x2,Entretien,Entretien,Lotus,Import Direct
+P023,Shampooing 400ml,Soins,Hygiène,Head&Shoulders,P&G Madagascar
+P024,Gel douche 250ml,Soins,Hygiène,Dove,Unilever Madagascar
+P025,Dentifrice 75ml,Soins,Hygiène,Signal,Unilever Madagascar
+P026,Déodorant 150ml,Soins,Hygiène,Axe,Unilever Madagascar
+P027,Eau de Javel 1L,Entretien,Entretien,X-Tra,X-Tra SARL
+P028,Moustiquaire imprégnée,Maison,Maison,Milda,Milda Distribution
+P029,Bougie x10,Maison,Maison,Safari,Safari SARL
+P030,Pile AA x4,Électronique,Maison,Duracell,Import Direct
+P031,Ampoule LED 9W,Électronique,Maison,Philips,Philips Madagascar
+P032,Chargeur USB,Électronique,Maison,Samsung,Samsung Madagascar
+P033,Casque audio,Électronique,Maison,JBL,JBL Import
+P034,Ventilateur de table,Électroménager,Maison,Binatone,Binatone SARL
+P035,Fer à repasser,Électroménager,Maison,Philips,Philips Madagascar
+P036,Mixeur 350W,Électroménager,Maison,Moulinex,Moulinex Import
+P037,Téléphone portable entrée de gamme,Téléphonie,Électronique,Samsung,Samsung Madagascar
+P038,Téléphone portable milieu de gamme,Téléphonie,Électronique,Samsung,Samsung Madagascar
+P039,Écouteurs sans fil,Téléphonie,Électronique,Xiaomi,Xiaomi Import
+P040,Coque de téléphone,Accessoires,Électronique,Générique,Import Direct
+P041,Sandales homme,Chaussures,Habillement,Bata,Bata Madagascar
+P042,Sandales femme,Chaussures,Habillement,Bata,Bata Madagascar
+P043,Tongs plastique,Chaussures,Habillement,Générique,Local
+P044,T-shirt homme,Vêtements,Habillement,Générique,Confection Locale
+P045,T-shirt femme,Vêtements,Habillement,Générique,Confection Locale
+P046,Jeans homme,Vêtements,Habillement,Levi's,Import Direct
+P047,Robe,Vêtements,Habillement,Générique,Confection Locale
+P048,Cahier grand format,Papeterie,Fournitures,Calligraphe,Calligraphe SARL
+P049,Stylo bille x10,Papeterie,Fournitures,Bic,Bic Madagascar
+P050,Calculatrice,Papeterie,Fournitures,Casio,Import Direct

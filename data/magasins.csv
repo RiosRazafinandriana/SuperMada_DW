@@ -1,0 +1,21 @@
+id_magasin;nom;ville;region;surface_m2
+M01;SuperMada Analakely;Antananarivo;Analamanga;850
+M02;SuperMada Ankorondrano;Antananarivo;Analamanga;1200
+M03;SuperMada Ivandry;Antananarivo;Analamanga;950
+M04;SuperMada Ambohimanarina;Antananarivo;Analamanga;700
+M05;SuperMada Andravoahangy;Antananarivo;Analamanga;780
+M06;Jumbo Score Talatamaty;Antananarivo;Analamanga;3500
+M07;Leader Price Behoririka;Antananarivo;Analamanga;600
+M08;Score Ambatobe;Antananarivo;Analamanga;1100
+M09;Shoprite Toamasina;Toamasina;Atsinanana;2200
+M10;SuperMada Toamasina;Toamasina;Atsinanana;890
+M11;Shoprite Mahajanga;Mahajanga;Boeny;1900
+M12;SuperMada Mahajanga;Mahajanga;Boeny;720
+M13;Score Fianarantsoa;Fianarantsoa;Haute Matsiatra;880
+M14;SuperMada Fianarantsoa;Fianarantsoa;Haute Matsiatra;650
+M15;Leader Price Toliara;Toliara;Atsimo-Andrefana;540
+M16;SuperMada Toliara;Toliara;Atsimo-Andrefana;480
+M17;SuperMada Antsirabe;Antsirabe;Vakinankaratra;730
+M18;Score Antsiranana;Antsiranana;Diana;920
+M19;SuperMada Antsiranana;Antsiranana;Diana;610
+M20;Carrefour Ankorondrano;Antananarivo;Analamanga;4200
