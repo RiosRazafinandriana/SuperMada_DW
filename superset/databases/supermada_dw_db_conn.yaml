@@ -1,0 +1,15 @@
+database_name: supermada_dw_db_conn
+sqlalchemy_uri: postgresql+psycopg2://postgres:XXXXXXXXXX@172.17.0.1:5432/supermada_dw_db
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: false
+allow_cvas: false
+allow_dml: false
+allow_file_upload: false
+extra:
+  allows_virtual_table_explore: true
+impersonate_user: false
+configuration_method: dynamic_form
+uuid: 0c48a308-0ac7-4c7f-8a54-e7c8f2a04be8
+version: 1.0.0

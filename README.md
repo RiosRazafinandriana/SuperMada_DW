@@ -72,7 +72,7 @@ SuperMada/
 
 ## 📈 Résultats
 
-*Section en cours de complétion.*
+![alt text](images/dashboard-royal-super-mada.jpg)
 
 ---
 
